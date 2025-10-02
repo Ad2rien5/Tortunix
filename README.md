@@ -3,8 +3,8 @@
 # Tortunix
 
 ## Description 
-**Tortunix** is a low-level programming langage, who can be compile to a assembly code throught this compiler. This compiler will be created without using compiler specific library.  
-In the first place, it will focus on making this compiler work on Ubuntu, then some other portage.
+**Tortunix** is a low-level programming langage, who can be compile to a assembly code throught this compiler. This langage is inspired by the [paper's computer M99](https://lycee--maths-info.translate.goog/NSI1ere/Cours/M99/?_x_tr_sl=fr&_x_tr_tl=en&_x_tr_hl=fr&_x_tr_pto=wapp).  
+This compiler will be created without using compiler specific library. In the first place, it will focus on making this compiler work on Ubuntu, then some other portage.
 
 ## Objectives
 This project has been created for educational purposes, to discover how compiler works. This explains why this project won't be using any specific library.  
