@@ -1,4 +1,4 @@
-![Tortunix Logo](ressources/tortunix_logo.png)
+![Tortunix Black Logo](ressources/Tortunix_black.ico)
 
 # Tortunix
 
