@@ -1,0 +1,13 @@
+add
+call
+int
+jump
+jumeq
+jumpne
+move
+send 
+sub 
+str
+storei 
+stores
+#
