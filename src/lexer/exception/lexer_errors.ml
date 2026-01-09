@@ -1,0 +1,2 @@
+exception Lexer_Error of string
+exception Instruction_type_Exception of string
