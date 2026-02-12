@@ -1,0 +1,15 @@
+command_name; type_called1; type_called2
+add; int; int
+call; type; both
+int; empty; empty
+jump; all; empty
+jumeq; int; int
+jumpne; int; int
+movei; int; int
+moves; string; string
+send; both; empty
+sub; int; int
+str; empty; empty
+storei; int; int
+stores; string; string
+#; empty; empty
